@@ -1,0 +1,4 @@
+#Wed May 19 22:00:37 EEST 2021
+base.0=E\:\\Studying\\Bechalor\\Islamic University\\(MOBC)Mobile computing and smart device applications\\Second Year\\Second half\\Cloud computing and its applications\\Lab\\PushNotification\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
